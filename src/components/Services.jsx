@@ -137,10 +137,10 @@ export default function Services() {
               </p>
 
               {/* Arrow */}
-              <div className="flex items-center gap-2 font-body text-xs font-medium text-jet-500 group-hover:text-volt-500 transition-colors duration-300">
+              {/* <div className="flex items-center gap-2 font-body text-xs font-medium text-jet-500 group-hover:text-volt-500 transition-colors duration-300">
                 <span>Learn more</span>
                 <BsArrowRight className="transition-transform duration-300 group-hover:translate-x-1" />
-              </div>
+              </div> */}
             </div>
           ))}
         </div>
